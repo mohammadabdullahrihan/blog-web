@@ -43,7 +43,7 @@ export default async function Navbar() {
               {links}
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">Blogopedia</a>
+          <a className="btn btn-ghost text-xl">Blog-web</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 gap-4">{links}</ul>
